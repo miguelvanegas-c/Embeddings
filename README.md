@@ -31,8 +31,8 @@ The notebook walks through an **embeddings exercise** at a conceptual and practi
 
 ---
 
-## 4) The repository contains a final application
-In addition to the notebook exercises, this repository includes **an application at the end of the book**—implemented here as a practical culmination of the concepts.
+## 4) The repository contains a final explanation
+In addition to the notebook exercises, this repository includes **an explanation at the end of the book**— answer the next questions.
 
 why each major step matters for LLMs / agentic systems? and Why do embeddings encode meaning, and how are they related to NN concepts?
 
